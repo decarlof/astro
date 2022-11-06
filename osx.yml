@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - requests
+  - numpy
+  - matplotlib
+  - astropy
+  - wget
